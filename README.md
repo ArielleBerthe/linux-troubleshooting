@@ -23,6 +23,18 @@ The goal is to build a practical and searchable knowledge base that can be usefu
 | [Virtualization](./virtualization/) | QEMU/KVM, VirtualBox and virtual machines |
 | [Applications](./applications/) | Application-specific Linux problems |
 
+## Documented Solutions
+
+### Keyboard
+
+- [Backslash (`\`) not working](./keyboard/backslash-not-working/)
+
+### Virtualization
+
+- [Clipboard not working between Parrot OS and host on Wayland](./virtualization/clipboard-not-working-wayland/)
+- [Rsync error 10 / insufficient disk space during Parrot Security installation](./virtualization/rsync-error-10-disk-space/)
+- [VM boots to a black screen or returns to the installer](./virtualization/black-screen-boots-to-installer/)
+
 ## Supported Distributions
 
 This repository is not limited to a single Linux distribution.
